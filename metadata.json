@@ -1,0 +1,8 @@
+{
+  "name": "Remix Barbearia Estilo Livre",
+  "description": "Barbearia moderna e sofisticada na Zona Leste de São Paulo. Liberdade para ser quem você é. Agendamento exclusivo via Booksy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
